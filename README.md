@@ -18,8 +18,7 @@ Python dependencies can be installed by running the first python cell in the `ev
    - Run the first python cell to install the dependencies
 
 2. **Run the Code**
-   - Follow the cells sequentially to reproduce the evaluation results.
-   - Modify the parameters as needed to test different scenarios.
+   - Run the cells sequentially to reproduce the evaluation results.
 
 ## Project Overview
 
